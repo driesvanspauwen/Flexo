@@ -1,0 +1,4082 @@
+[
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 1,
+      "WM_DELAY": 128,
+      "WR_OFFSET": 576
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 86.026,
+        "error_detected": 13.643,
+        "undetected_error": 0.331
+      },
+      "OR": {
+        "accuracy": 58.479,
+        "error_detected": 40.135,
+        "undetected_error": 1.386
+      },
+      "NOT": {
+        "accuracy": 75.338,
+        "error_detected": 23.914,
+        "undetected_error": 0.748
+      },
+      "NAND": {
+        "accuracy": 57.514,
+        "error_detected": 40.902,
+        "undetected_error": 1.584
+      },
+      "XOR": {
+        "accuracy": 75.629,
+        "error_detected": 23.611,
+        "undetected_error": 0.76
+      },
+      "MUX": {
+        "accuracy": 73.853,
+        "error_detected": 25.239,
+        "undetected_error": 0.908
+      },
+      "XOR3": {
+        "accuracy": 75.253,
+        "error_detected": 24.191,
+        "undetected_error": 0.556
+      },
+      "XOR4": {
+        "accuracy": 75.579,
+        "error_detected": 23.796,
+        "undetected_error": 0.625
+      }
+    },
+    "score": 69.622125,
+    "timestamp": "2025-05-24T21:50:23.053005"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 1,
+      "WM_DELAY": 128,
+      "WR_OFFSET": 960
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 82.953,
+        "error_detected": 16.565,
+        "undetected_error": 0.482
+      },
+      "OR": {
+        "accuracy": 55.593,
+        "error_detected": 42.957,
+        "undetected_error": 1.45
+      },
+      "NOT": {
+        "accuracy": 75.834,
+        "error_detected": 23.418,
+        "undetected_error": 0.748
+      },
+      "NAND": {
+        "accuracy": 54.328,
+        "error_detected": 44.022,
+        "undetected_error": 1.65
+      },
+      "XOR": {
+        "accuracy": 73.375,
+        "error_detected": 25.759,
+        "undetected_error": 0.866
+      },
+      "MUX": {
+        "accuracy": 70.612,
+        "error_detected": 28.58,
+        "undetected_error": 0.808
+      },
+      "XOR3": {
+        "accuracy": 75.553,
+        "error_detected": 23.793,
+        "undetected_error": 0.654
+      },
+      "XOR4": {
+        "accuracy": 73.964,
+        "error_detected": 25.31,
+        "undetected_error": 0.726
+      }
+    },
+    "score": 67.5075,
+    "timestamp": "2025-05-24T21:50:27.446910"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 1,
+      "WM_DELAY": 128,
+      "WR_OFFSET": 1088
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 83.668,
+        "error_detected": 15.909,
+        "undetected_error": 0.423
+      },
+      "OR": {
+        "accuracy": 44.658,
+        "error_detected": 53.616,
+        "undetected_error": 1.726
+      },
+      "NOT": {
+        "accuracy": 64.213,
+        "error_detected": 35.158,
+        "undetected_error": 0.629
+      },
+      "NAND": {
+        "accuracy": 39.824,
+        "error_detected": 58.372,
+        "undetected_error": 1.804
+      },
+      "XOR": {
+        "accuracy": 63.775,
+        "error_detected": 35.319,
+        "undetected_error": 0.906
+      },
+      "MUX": {
+        "accuracy": 61.15,
+        "error_detected": 37.9,
+        "undetected_error": 0.95
+      },
+      "XOR3": {
+        "accuracy": 70.498,
+        "error_detected": 28.932,
+        "undetected_error": 0.57
+      },
+      "XOR4": {
+        "accuracy": 75.707,
+        "error_detected": 23.694,
+        "undetected_error": 0.599
+      }
+    },
+    "score": 60.084,
+    "timestamp": "2025-05-24T21:50:31.937677"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 1,
+      "WM_DELAY": 128,
+      "WR_OFFSET": 1216
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 81.938,
+        "error_detected": 17.577,
+        "undetected_error": 0.485
+      },
+      "OR": {
+        "accuracy": 52.517,
+        "error_detected": 46.144,
+        "undetected_error": 1.339
+      },
+      "NOT": {
+        "accuracy": 73.172,
+        "error_detected": 26.422,
+        "undetected_error": 0.406
+      },
+      "NAND": {
+        "accuracy": 46.803,
+        "error_detected": 51.536,
+        "undetected_error": 1.661
+      },
+      "XOR": {
+        "accuracy": 70.46,
+        "error_detected": 28.815,
+        "undetected_error": 0.725
+      },
+      "MUX": {
+        "accuracy": 67.832,
+        "error_detected": 31.338,
+        "undetected_error": 0.83
+      },
+      "XOR3": {
+        "accuracy": 74.005,
+        "error_detected": 25.486,
+        "undetected_error": 0.509
+      },
+      "XOR4": {
+        "accuracy": 71.739,
+        "error_detected": 27.604,
+        "undetected_error": 0.657
+      }
+    },
+    "score": 64.82875,
+    "timestamp": "2025-05-24T21:50:36.233032"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 1,
+      "WM_DELAY": 256,
+      "WR_OFFSET": 576
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 82.063,
+        "error_detected": 17.469,
+        "undetected_error": 0.468
+      },
+      "OR": {
+        "accuracy": 52.813,
+        "error_detected": 45.698,
+        "undetected_error": 1.489
+      },
+      "NOT": {
+        "accuracy": 66.751,
+        "error_detected": 31.993,
+        "undetected_error": 1.256
+      },
+      "NAND": {
+        "accuracy": 52.872,
+        "error_detected": 45.499,
+        "undetected_error": 1.629
+      },
+      "XOR": {
+        "accuracy": 70.666,
+        "error_detected": 28.396,
+        "undetected_error": 0.938
+      },
+      "MUX": {
+        "accuracy": 58.287,
+        "error_detected": 40.442,
+        "undetected_error": 1.271
+      },
+      "XOR3": {
+        "accuracy": 70.959,
+        "error_detected": 28.191,
+        "undetected_error": 0.85
+      },
+      "XOR4": {
+        "accuracy": 76.082,
+        "error_detected": 23.268,
+        "undetected_error": 0.65
+      }
+    },
+    "score": 63.105000000000004,
+    "timestamp": "2025-05-24T21:50:40.657000"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 1,
+      "WM_DELAY": 256,
+      "WR_OFFSET": 960
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 84.401,
+        "error_detected": 15.186,
+        "undetected_error": 0.413
+      },
+      "OR": {
+        "accuracy": 58.371,
+        "error_detected": 40.347,
+        "undetected_error": 1.282
+      },
+      "NOT": {
+        "accuracy": 75.97,
+        "error_detected": 23.25,
+        "undetected_error": 0.78
+      },
+      "NAND": {
+        "accuracy": 54.713,
+        "error_detected": 43.754,
+        "undetected_error": 1.533
+      },
+      "XOR": {
+        "accuracy": 76.127,
+        "error_detected": 23.12,
+        "undetected_error": 0.753
+      },
+      "MUX": {
+        "accuracy": 68.77,
+        "error_detected": 30.2,
+        "undetected_error": 1.03
+      },
+      "XOR3": {
+        "accuracy": 74.754,
+        "error_detected": 24.661,
+        "undetected_error": 0.585
+      },
+      "XOR4": {
+        "accuracy": 75.707,
+        "error_detected": 23.626,
+        "undetected_error": 0.667
+      }
+    },
+    "score": 68.46050000000001,
+    "timestamp": "2025-05-24T21:50:45.013248"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 1,
+      "WM_DELAY": 256,
+      "WR_OFFSET": 1088
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 82.236,
+        "error_detected": 17.208,
+        "undetected_error": 0.556
+      },
+      "OR": {
+        "accuracy": 59.818,
+        "error_detected": 38.815,
+        "undetected_error": 1.367
+      },
+      "NOT": {
+        "accuracy": 72.542,
+        "error_detected": 26.575,
+        "undetected_error": 0.883
+      },
+      "NAND": {
+        "accuracy": 52.538,
+        "error_detected": 45.682,
+        "undetected_error": 1.78
+      },
+      "XOR": {
+        "accuracy": 72.591,
+        "error_detected": 26.382,
+        "undetected_error": 1.027
+      },
+      "MUX": {
+        "accuracy": 67.915,
+        "error_detected": 31.076,
+        "undetected_error": 1.009
+      },
+      "XOR3": {
+        "accuracy": 74.496,
+        "error_detected": 24.859,
+        "undetected_error": 0.645
+      },
+      "XOR4": {
+        "accuracy": 74.106,
+        "error_detected": 25.211,
+        "undetected_error": 0.683
+      }
+    },
+    "score": 66.54899999999999,
+    "timestamp": "2025-05-24T21:50:49.417233"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 1,
+      "WM_DELAY": 256,
+      "WR_OFFSET": 1216
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 81.29,
+        "error_detected": 18.218,
+        "undetected_error": 0.492
+      },
+      "OR": {
+        "accuracy": 46.59,
+        "error_detected": 51.83,
+        "undetected_error": 1.58
+      },
+      "NOT": {
+        "accuracy": 63.532,
+        "error_detected": 35.484,
+        "undetected_error": 0.984
+      },
+      "NAND": {
+        "accuracy": 44.362,
+        "error_detected": 53.744,
+        "undetected_error": 1.894
+      },
+      "XOR": {
+        "accuracy": 65.929,
+        "error_detected": 33.154,
+        "undetected_error": 0.917
+      },
+      "MUX": {
+        "accuracy": 52.072,
+        "error_detected": 46.528,
+        "undetected_error": 1.4
+      },
+      "XOR3": {
+        "accuracy": 62.073,
+        "error_detected": 36.961,
+        "undetected_error": 0.966
+      },
+      "XOR4": {
+        "accuracy": 74.358,
+        "error_detected": 24.928,
+        "undetected_error": 0.714
+      }
+    },
+    "score": 57.92062500000001,
+    "timestamp": "2025-05-24T21:50:53.898407"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 1,
+      "WM_DELAY": 512,
+      "WR_OFFSET": 576
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 79.857,
+        "error_detected": 19.559,
+        "undetected_error": 0.584
+      },
+      "OR": {
+        "accuracy": 29.298,
+        "error_detected": 68.377,
+        "undetected_error": 2.325
+      },
+      "NOT": {
+        "accuracy": 60.142,
+        "error_detected": 38.576,
+        "undetected_error": 1.282
+      },
+      "NAND": {
+        "accuracy": 26.815,
+        "error_detected": 70.672,
+        "undetected_error": 2.513
+      },
+      "XOR": {
+        "accuracy": 51.841,
+        "error_detected": 46.804,
+        "undetected_error": 1.355
+      },
+      "MUX": {
+        "accuracy": 50.838,
+        "error_detected": 47.698,
+        "undetected_error": 1.464
+      },
+      "XOR3": {
+        "accuracy": 57.978,
+        "error_detected": 40.951,
+        "undetected_error": 1.071
+      },
+      "XOR4": {
+        "accuracy": 64.131,
+        "error_detected": 34.797,
+        "undetected_error": 1.072
+      }
+    },
+    "score": 48.23775,
+    "timestamp": "2025-05-24T21:50:58.365237"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 1,
+      "WM_DELAY": 512,
+      "WR_OFFSET": 960
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 81.062,
+        "error_detected": 18.454,
+        "undetected_error": 0.484
+      },
+      "OR": {
+        "accuracy": 49.966,
+        "error_detected": 48.609,
+        "undetected_error": 1.425
+      },
+      "NOT": {
+        "accuracy": 66.05,
+        "error_detected": 33.071,
+        "undetected_error": 0.879
+      },
+      "NAND": {
+        "accuracy": 47.996,
+        "error_detected": 50.498,
+        "undetected_error": 1.506
+      },
+      "XOR": {
+        "accuracy": 66.635,
+        "error_detected": 32.524,
+        "undetected_error": 0.841
+      },
+      "MUX": {
+        "accuracy": 58.366,
+        "error_detected": 40.481,
+        "undetected_error": 1.153
+      },
+      "XOR3": {
+        "accuracy": 62.197,
+        "error_detected": 36.92,
+        "undetected_error": 0.883
+      },
+      "XOR4": {
+        "accuracy": 71.662,
+        "error_detected": 27.56,
+        "undetected_error": 0.778
+      }
+    },
+    "score": 60.010875,
+    "timestamp": "2025-05-24T21:51:02.757400"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 1,
+      "WM_DELAY": 512,
+      "WR_OFFSET": 1088
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 81.328,
+        "error_detected": 18.174,
+        "undetected_error": 0.498
+      },
+      "OR": {
+        "accuracy": 43.657,
+        "error_detected": 54.619,
+        "undetected_error": 1.724
+      },
+      "NOT": {
+        "accuracy": 51.432,
+        "error_detected": 47.27,
+        "undetected_error": 1.298
+      },
+      "NAND": {
+        "accuracy": 39.659,
+        "error_detected": 58.382,
+        "undetected_error": 1.959
+      },
+      "XOR": {
+        "accuracy": 62.795,
+        "error_detected": 36.124,
+        "undetected_error": 1.081
+      },
+      "MUX": {
+        "accuracy": 59.693,
+        "error_detected": 39.332,
+        "undetected_error": 0.975
+      },
+      "XOR3": {
+        "accuracy": 67.055,
+        "error_detected": 32.256,
+        "undetected_error": 0.689
+      },
+      "XOR4": {
+        "accuracy": 77.051,
+        "error_detected": 22.279,
+        "undetected_error": 0.67
+      }
+    },
+    "score": 56.99850000000001,
+    "timestamp": "2025-05-24T21:51:07.193350"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 1,
+      "WM_DELAY": 512,
+      "WR_OFFSET": 1216
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 79.665,
+        "error_detected": 19.997,
+        "undetected_error": 0.338
+      },
+      "OR": {
+        "accuracy": 45.7,
+        "error_detected": 53.17,
+        "undetected_error": 1.13
+      },
+      "NOT": {
+        "accuracy": 65.465,
+        "error_detected": 33.84,
+        "undetected_error": 0.695
+      },
+      "NAND": {
+        "accuracy": 44.5,
+        "error_detected": 54.287,
+        "undetected_error": 1.213
+      },
+      "XOR": {
+        "accuracy": 64.014,
+        "error_detected": 35.31,
+        "undetected_error": 0.676
+      },
+      "MUX": {
+        "accuracy": 62.979,
+        "error_detected": 36.325,
+        "undetected_error": 0.696
+      },
+      "XOR3": {
+        "accuracy": 68.297,
+        "error_detected": 31.196,
+        "undetected_error": 0.507
+      },
+      "XOR4": {
+        "accuracy": 72.3,
+        "error_detected": 27.077,
+        "undetected_error": 0.623
+      }
+    },
+    "score": 60.66075,
+    "timestamp": "2025-05-24T21:51:11.604869"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 1,
+      "WM_DELAY": 1024,
+      "WR_OFFSET": 576
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 83.13,
+        "error_detected": 16.374,
+        "undetected_error": 0.496
+      },
+      "OR": {
+        "accuracy": 55.612,
+        "error_detected": 42.883,
+        "undetected_error": 1.505
+      },
+      "NOT": {
+        "accuracy": 73.663,
+        "error_detected": 25.467,
+        "undetected_error": 0.87
+      },
+      "NAND": {
+        "accuracy": 52.47,
+        "error_detected": 45.809,
+        "undetected_error": 1.721
+      },
+      "XOR": {
+        "accuracy": 73.656,
+        "error_detected": 25.453,
+        "undetected_error": 0.891
+      },
+      "MUX": {
+        "accuracy": 57.95,
+        "error_detected": 40.653,
+        "undetected_error": 1.397
+      },
+      "XOR3": {
+        "accuracy": 72.021,
+        "error_detected": 27.192,
+        "undetected_error": 0.787
+      },
+      "XOR4": {
+        "accuracy": 75.048,
+        "error_detected": 24.267,
+        "undetected_error": 0.685
+      }
+    },
+    "score": 64.81174999999999,
+    "timestamp": "2025-05-24T21:51:16.057580"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 1,
+      "WM_DELAY": 1024,
+      "WR_OFFSET": 960
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 84.675,
+        "error_detected": 14.927,
+        "undetected_error": 0.398
+      },
+      "OR": {
+        "accuracy": 57.228,
+        "error_detected": 41.51,
+        "undetected_error": 1.262
+      },
+      "NOT": {
+        "accuracy": 68.379,
+        "error_detected": 30.775,
+        "undetected_error": 0.846
+      },
+      "NAND": {
+        "accuracy": 51.068,
+        "error_detected": 47.364,
+        "undetected_error": 1.568
+      },
+      "XOR": {
+        "accuracy": 75.232,
+        "error_detected": 24.021,
+        "undetected_error": 0.747
+      },
+      "MUX": {
+        "accuracy": 58.36,
+        "error_detected": 40.442,
+        "undetected_error": 1.198
+      },
+      "XOR3": {
+        "accuracy": 72.821,
+        "error_detected": 26.417,
+        "undetected_error": 0.762
+      },
+      "XOR4": {
+        "accuracy": 74.662,
+        "error_detected": 24.701,
+        "undetected_error": 0.637
+      }
+    },
+    "score": 65.021375,
+    "timestamp": "2025-05-24T21:51:20.413254"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 1,
+      "WM_DELAY": 1024,
+      "WR_OFFSET": 1088
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 82.355,
+        "error_detected": 17.139,
+        "undetected_error": 0.506
+      },
+      "OR": {
+        "accuracy": 55.597,
+        "error_detected": 43.017,
+        "undetected_error": 1.386
+      },
+      "NOT": {
+        "accuracy": 69.436,
+        "error_detected": 29.83,
+        "undetected_error": 0.734
+      },
+      "NAND": {
+        "accuracy": 48.212,
+        "error_detected": 50.1,
+        "undetected_error": 1.688
+      },
+      "XOR": {
+        "accuracy": 71.39,
+        "error_detected": 27.712,
+        "undetected_error": 0.898
+      },
+      "MUX": {
+        "accuracy": 65.283,
+        "error_detected": 33.788,
+        "undetected_error": 0.929
+      },
+      "XOR3": {
+        "accuracy": 75.805,
+        "error_detected": 23.538,
+        "undetected_error": 0.657
+      },
+      "XOR4": {
+        "accuracy": 73.84,
+        "error_detected": 25.514,
+        "undetected_error": 0.646
+      }
+    },
+    "score": 64.94825,
+    "timestamp": "2025-05-24T21:51:24.710590"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 1,
+      "WM_DELAY": 1024,
+      "WR_OFFSET": 1216
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 83.943,
+        "error_detected": 15.684,
+        "undetected_error": 0.373
+      },
+      "OR": {
+        "accuracy": 50.036,
+        "error_detected": 48.517,
+        "undetected_error": 1.447
+      },
+      "NOT": {
+        "accuracy": 71.808,
+        "error_detected": 27.387,
+        "undetected_error": 0.805
+      },
+      "NAND": {
+        "accuracy": 48.594,
+        "error_detected": 49.87,
+        "undetected_error": 1.536
+      },
+      "XOR": {
+        "accuracy": 68.261,
+        "error_detected": 30.857,
+        "undetected_error": 0.882
+      },
+      "MUX": {
+        "accuracy": 58.986,
+        "error_detected": 39.888,
+        "undetected_error": 1.126
+      },
+      "XOR3": {
+        "accuracy": 65.934,
+        "error_detected": 33.205,
+        "undetected_error": 0.861
+      },
+      "XOR4": {
+        "accuracy": 76.69,
+        "error_detected": 22.664,
+        "undetected_error": 0.646
+      }
+    },
+    "score": 62.653000000000006,
+    "timestamp": "2025-05-24T21:51:29.005891"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 3,
+      "WM_DELAY": 128,
+      "WR_OFFSET": 576
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 74.256,
+        "error_detected": 24.993,
+        "undetected_error": 0.751
+      },
+      "OR": {
+        "accuracy": 35.808,
+        "error_detected": 61.96,
+        "undetected_error": 2.232
+      },
+      "NOT": {
+        "accuracy": 54.988,
+        "error_detected": 43.464,
+        "undetected_error": 1.548
+      },
+      "NAND": {
+        "accuracy": 25.801,
+        "error_detected": 71.571,
+        "undetected_error": 2.628
+      },
+      "XOR": {
+        "accuracy": 50.699,
+        "error_detected": 47.815,
+        "undetected_error": 1.486
+      },
+      "MUX": {
+        "accuracy": 49.503,
+        "error_detected": 48.991,
+        "undetected_error": 1.506
+      },
+      "XOR3": {
+        "accuracy": 59.735,
+        "error_detected": 39.105,
+        "undetected_error": 1.16
+      },
+      "XOR4": {
+        "accuracy": 67.832,
+        "error_detected": 31.164,
+        "undetected_error": 1.004
+      }
+    },
+    "score": 47.709625,
+    "timestamp": "2025-05-24T21:51:33.412981"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 3,
+      "WM_DELAY": 128,
+      "WR_OFFSET": 960
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 82.903,
+        "error_detected": 16.642,
+        "undetected_error": 0.455
+      },
+      "OR": {
+        "accuracy": 57.045,
+        "error_detected": 41.483,
+        "undetected_error": 1.472
+      },
+      "NOT": {
+        "accuracy": 74.942,
+        "error_detected": 24.204,
+        "undetected_error": 0.854
+      },
+      "NAND": {
+        "accuracy": 54.847,
+        "error_detected": 43.516,
+        "undetected_error": 1.637
+      },
+      "XOR": {
+        "accuracy": 74.7,
+        "error_detected": 24.508,
+        "undetected_error": 0.792
+      },
+      "MUX": {
+        "accuracy": 66.676,
+        "error_detected": 32.084,
+        "undetected_error": 1.24
+      },
+      "XOR3": {
+        "accuracy": 73.277,
+        "error_detected": 26.004,
+        "undetected_error": 0.719
+      },
+      "XOR4": {
+        "accuracy": 74.362,
+        "error_detected": 24.937,
+        "undetected_error": 0.701
+      }
+    },
+    "score": 66.89275,
+    "timestamp": "2025-05-24T21:51:37.839936"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 3,
+      "WM_DELAY": 128,
+      "WR_OFFSET": 1088
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 83.115,
+        "error_detected": 16.393,
+        "undetected_error": 0.492
+      },
+      "OR": {
+        "accuracy": 56.145,
+        "error_detected": 42.408,
+        "undetected_error": 1.447
+      },
+      "NOT": {
+        "accuracy": 70.914,
+        "error_detected": 28.198,
+        "undetected_error": 0.888
+      },
+      "NAND": {
+        "accuracy": 54.559,
+        "error_detected": 43.71,
+        "undetected_error": 1.731
+      },
+      "XOR": {
+        "accuracy": 73.919,
+        "error_detected": 25.173,
+        "undetected_error": 0.908
+      },
+      "MUX": {
+        "accuracy": 68.558,
+        "error_detected": 30.375,
+        "undetected_error": 1.067
+      },
+      "XOR3": {
+        "accuracy": 73.343,
+        "error_detected": 26.037,
+        "undetected_error": 0.62
+      },
+      "XOR4": {
+        "accuracy": 72.818,
+        "error_detected": 26.466,
+        "undetected_error": 0.716
+      }
+    },
+    "score": 66.2205,
+    "timestamp": "2025-05-24T21:51:42.257214"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 3,
+      "WM_DELAY": 128,
+      "WR_OFFSET": 1216
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 81.305,
+        "error_detected": 18.14,
+        "undetected_error": 0.555
+      },
+      "OR": {
+        "accuracy": 51.411,
+        "error_detected": 47.046,
+        "undetected_error": 1.543
+      },
+      "NOT": {
+        "accuracy": 60.556,
+        "error_detected": 38.196,
+        "undetected_error": 1.248
+      },
+      "NAND": {
+        "accuracy": 46.859,
+        "error_detected": 51.438,
+        "undetected_error": 1.703
+      },
+      "XOR": {
+        "accuracy": 67.46,
+        "error_detected": 31.595,
+        "undetected_error": 0.945
+      },
+      "MUX": {
+        "accuracy": 61.824,
+        "error_detected": 37.05,
+        "undetected_error": 1.126
+      },
+      "XOR3": {
+        "accuracy": 68.394,
+        "error_detected": 30.8,
+        "undetected_error": 0.806
+      },
+      "XOR4": {
+        "accuracy": 77.049,
+        "error_detected": 22.279,
+        "undetected_error": 0.672
+      }
+    },
+    "score": 61.132999999999996,
+    "timestamp": "2025-05-24T21:51:46.553089"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 3,
+      "WM_DELAY": 256,
+      "WR_OFFSET": 576
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 77.782,
+        "error_detected": 21.57,
+        "undetected_error": 0.648
+      },
+      "OR": {
+        "accuracy": 38.149,
+        "error_detected": 59.769,
+        "undetected_error": 2.082
+      },
+      "NOT": {
+        "accuracy": 54.059,
+        "error_detected": 44.399,
+        "undetected_error": 1.542
+      },
+      "NAND": {
+        "accuracy": 37.706,
+        "error_detected": 60.164,
+        "undetected_error": 2.13
+      },
+      "XOR": {
+        "accuracy": 59.024,
+        "error_detected": 39.808,
+        "undetected_error": 1.168
+      },
+      "MUX": {
+        "accuracy": 59.114,
+        "error_detected": 39.637,
+        "undetected_error": 1.249
+      },
+      "XOR3": {
+        "accuracy": 62.484,
+        "error_detected": 36.559,
+        "undetected_error": 0.957
+      },
+      "XOR4": {
+        "accuracy": 72.056,
+        "error_detected": 27.164,
+        "undetected_error": 0.78
+      }
+    },
+    "score": 53.58825,
+    "timestamp": "2025-05-24T21:51:50.889345"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 3,
+      "WM_DELAY": 256,
+      "WR_OFFSET": 960
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 83.992,
+        "error_detected": 15.56,
+        "undetected_error": 0.448
+      },
+      "OR": {
+        "accuracy": 47.504,
+        "error_detected": 50.778,
+        "undetected_error": 1.718
+      },
+      "NOT": {
+        "accuracy": 67.53,
+        "error_detected": 31.37,
+        "undetected_error": 1.1
+      },
+      "NAND": {
+        "accuracy": 52.58,
+        "error_detected": 45.742,
+        "undetected_error": 1.678
+      },
+      "XOR": {
+        "accuracy": 78.694,
+        "error_detected": 20.706,
+        "undetected_error": 0.6
+      },
+      "MUX": {
+        "accuracy": 65.515,
+        "error_detected": 33.363,
+        "undetected_error": 1.122
+      },
+      "XOR3": {
+        "accuracy": 63.038,
+        "error_detected": 35.962,
+        "undetected_error": 1.0
+      },
+      "XOR4": {
+        "accuracy": 77.44,
+        "error_detected": 21.877,
+        "undetected_error": 0.683
+      }
+    },
+    "score": 63.90575,
+    "timestamp": "2025-05-24T21:51:55.253203"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 3,
+      "WM_DELAY": 256,
+      "WR_OFFSET": 1088
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 83.565,
+        "error_detected": 16.166,
+        "undetected_error": 0.269
+      },
+      "OR": {
+        "accuracy": 55.851,
+        "error_detected": 43.371,
+        "undetected_error": 0.778
+      },
+      "NOT": {
+        "accuracy": 73.377,
+        "error_detected": 26.075,
+        "undetected_error": 0.548
+      },
+      "NAND": {
+        "accuracy": 56.933,
+        "error_detected": 42.227,
+        "undetected_error": 0.84
+      },
+      "XOR": {
+        "accuracy": 74.437,
+        "error_detected": 25.124,
+        "undetected_error": 0.439
+      },
+      "MUX": {
+        "accuracy": 68.542,
+        "error_detected": 30.88,
+        "undetected_error": 0.578
+      },
+      "XOR3": {
+        "accuracy": 73.592,
+        "error_detected": 26.04,
+        "undetected_error": 0.368
+      },
+      "XOR4": {
+        "accuracy": 74.94,
+        "error_detected": 24.586,
+        "undetected_error": 0.474
+      }
+    },
+    "score": 68.544375,
+    "timestamp": "2025-05-24T21:51:59.609556"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 3,
+      "WM_DELAY": 256,
+      "WR_OFFSET": 1216
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 81.835,
+        "error_detected": 17.628,
+        "undetected_error": 0.537
+      },
+      "OR": {
+        "accuracy": 47.293,
+        "error_detected": 51.024,
+        "undetected_error": 1.683
+      },
+      "NOT": {
+        "accuracy": 59.172,
+        "error_detected": 39.479,
+        "undetected_error": 1.349
+      },
+      "NAND": {
+        "accuracy": 44.919,
+        "error_detected": 53.306,
+        "undetected_error": 1.775
+      },
+      "XOR": {
+        "accuracy": 65.773,
+        "error_detected": 33.25,
+        "undetected_error": 0.977
+      },
+      "MUX": {
+        "accuracy": 65.965,
+        "error_detected": 33.197,
+        "undetected_error": 0.838
+      },
+      "XOR3": {
+        "accuracy": 70.328,
+        "error_detected": 28.99,
+        "undetected_error": 0.682
+      },
+      "XOR4": {
+        "accuracy": 76.993,
+        "error_detected": 22.353,
+        "undetected_error": 0.654
+      }
+    },
+    "score": 60.849125,
+    "timestamp": "2025-05-24T21:52:03.937440"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 3,
+      "WM_DELAY": 512,
+      "WR_OFFSET": 576
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 78.707,
+        "error_detected": 21.0,
+        "undetected_error": 0.293
+      },
+      "OR": {
+        "accuracy": 41.731,
+        "error_detected": 57.403,
+        "undetected_error": 0.866
+      },
+      "NOT": {
+        "accuracy": 59.777,
+        "error_detected": 39.467,
+        "undetected_error": 0.756
+      },
+      "NAND": {
+        "accuracy": 39.313,
+        "error_detected": 59.723,
+        "undetected_error": 0.964
+      },
+      "XOR": {
+        "accuracy": 61.444,
+        "error_detected": 38.02,
+        "undetected_error": 0.536
+      },
+      "MUX": {
+        "accuracy": 50.44,
+        "error_detected": 48.799,
+        "undetected_error": 0.761
+      },
+      "XOR3": {
+        "accuracy": 58.429,
+        "error_detected": 41.018,
+        "undetected_error": 0.553
+      },
+      "XOR4": {
+        "accuracy": 72.988,
+        "error_detected": 26.532,
+        "undetected_error": 0.48
+      }
+    },
+    "score": 55.90024999999999,
+    "timestamp": "2025-05-24T21:52:08.351025"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 3,
+      "WM_DELAY": 512,
+      "WR_OFFSET": 960
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 77.18,
+        "error_detected": 22.246,
+        "undetected_error": 0.574
+      },
+      "OR": {
+        "accuracy": 37.193,
+        "error_detected": 60.956,
+        "undetected_error": 1.851
+      },
+      "NOT": {
+        "accuracy": 50.06,
+        "error_detected": 48.632,
+        "undetected_error": 1.308
+      },
+      "NAND": {
+        "accuracy": 33.605,
+        "error_detected": 64.335,
+        "undetected_error": 2.06
+      },
+      "XOR": {
+        "accuracy": 57.246,
+        "error_detected": 41.617,
+        "undetected_error": 1.137
+      },
+      "MUX": {
+        "accuracy": 60.104,
+        "error_detected": 38.878,
+        "undetected_error": 1.018
+      },
+      "XOR3": {
+        "accuracy": 64.755,
+        "error_detected": 34.455,
+        "undetected_error": 0.79
+      },
+      "XOR4": {
+        "accuracy": 80.392,
+        "error_detected": 19.207,
+        "undetected_error": 0.401
+      }
+    },
+    "score": 54.13974999999999,
+    "timestamp": "2025-05-24T21:52:12.735668"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 3,
+      "WM_DELAY": 512,
+      "WR_OFFSET": 1088
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 83.645,
+        "error_detected": 15.973,
+        "undetected_error": 0.382
+      },
+      "OR": {
+        "accuracy": 58.643,
+        "error_detected": 40.213,
+        "undetected_error": 1.144
+      },
+      "NOT": {
+        "accuracy": 74.463,
+        "error_detected": 25.034,
+        "undetected_error": 0.503
+      },
+      "NAND": {
+        "accuracy": 54.313,
+        "error_detected": 44.35,
+        "undetected_error": 1.337
+      },
+      "XOR": {
+        "accuracy": 76.024,
+        "error_detected": 23.382,
+        "undetected_error": 0.594
+      },
+      "MUX": {
+        "accuracy": 73.349,
+        "error_detected": 25.817,
+        "undetected_error": 0.834
+      },
+      "XOR3": {
+        "accuracy": 75.235,
+        "error_detected": 24.222,
+        "undetected_error": 0.543
+      },
+      "XOR4": {
+        "accuracy": 74.555,
+        "error_detected": 24.857,
+        "undetected_error": 0.588
+      }
+    },
+    "score": 69.05650000000001,
+    "timestamp": "2025-05-24T21:52:17.017198"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 3,
+      "WM_DELAY": 512,
+      "WR_OFFSET": 1216
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 81.771,
+        "error_detected": 17.775,
+        "undetected_error": 0.454
+      },
+      "OR": {
+        "accuracy": 56.069,
+        "error_detected": 42.577,
+        "undetected_error": 1.354
+      },
+      "NOT": {
+        "accuracy": 73.078,
+        "error_detected": 26.195,
+        "undetected_error": 0.727
+      },
+      "NAND": {
+        "accuracy": 51.102,
+        "error_detected": 47.243,
+        "undetected_error": 1.655
+      },
+      "XOR": {
+        "accuracy": 72.096,
+        "error_detected": 27.069,
+        "undetected_error": 0.835
+      },
+      "MUX": {
+        "accuracy": 68.328,
+        "error_detected": 30.727,
+        "undetected_error": 0.945
+      },
+      "XOR3": {
+        "accuracy": 74.566,
+        "error_detected": 24.767,
+        "undetected_error": 0.667
+      },
+      "XOR4": {
+        "accuracy": 73.333,
+        "error_detected": 25.952,
+        "undetected_error": 0.715
+      }
+    },
+    "score": 66.035875,
+    "timestamp": "2025-05-24T21:52:21.289307"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 3,
+      "WM_DELAY": 1024,
+      "WR_OFFSET": 576
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 76.127,
+        "error_detected": 23.192,
+        "undetected_error": 0.681
+      },
+      "OR": {
+        "accuracy": 34.271,
+        "error_detected": 63.605,
+        "undetected_error": 2.124
+      },
+      "NOT": {
+        "accuracy": 61.8,
+        "error_detected": 36.972,
+        "undetected_error": 1.228
+      },
+      "NAND": {
+        "accuracy": 30.4,
+        "error_detected": 67.265,
+        "undetected_error": 2.335
+      },
+      "XOR": {
+        "accuracy": 54.296,
+        "error_detected": 44.378,
+        "undetected_error": 1.326
+      },
+      "MUX": {
+        "accuracy": 54.509,
+        "error_detected": 44.126,
+        "undetected_error": 1.365
+      },
+      "XOR3": {
+        "accuracy": 69.69,
+        "error_detected": 29.468,
+        "undetected_error": 0.842
+      },
+      "XOR4": {
+        "accuracy": 72.027,
+        "error_detected": 27.134,
+        "undetected_error": 0.839
+      }
+    },
+    "score": 52.6125,
+    "timestamp": "2025-05-24T21:52:25.673627"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 3,
+      "WM_DELAY": 1024,
+      "WR_OFFSET": 960
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 82.492,
+        "error_detected": 16.965,
+        "undetected_error": 0.543
+      },
+      "OR": {
+        "accuracy": 55.767,
+        "error_detected": 42.85,
+        "undetected_error": 1.383
+      },
+      "NOT": {
+        "accuracy": 69.549,
+        "error_detected": 29.433,
+        "undetected_error": 1.018
+      },
+      "NAND": {
+        "accuracy": 43.99,
+        "error_detected": 54.197,
+        "undetected_error": 1.813
+      },
+      "XOR": {
+        "accuracy": 70.856,
+        "error_detected": 28.171,
+        "undetected_error": 0.973
+      },
+      "MUX": {
+        "accuracy": 64.1,
+        "error_detected": 34.742,
+        "undetected_error": 1.158
+      },
+      "XOR3": {
+        "accuracy": 73.857,
+        "error_detected": 25.482,
+        "undetected_error": 0.661
+      },
+      "XOR4": {
+        "accuracy": 73.44,
+        "error_detected": 25.931,
+        "undetected_error": 0.629
+      }
+    },
+    "score": 63.68962499999999,
+    "timestamp": "2025-05-24T21:52:30.021593"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 3,
+      "WM_DELAY": 1024,
+      "WR_OFFSET": 1088
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 83.632,
+        "error_detected": 15.918,
+        "undetected_error": 0.45
+      },
+      "OR": {
+        "accuracy": 58.905,
+        "error_detected": 39.944,
+        "undetected_error": 1.151
+      },
+      "NOT": {
+        "accuracy": 76.439,
+        "error_detected": 22.837,
+        "undetected_error": 0.724
+      },
+      "NAND": {
+        "accuracy": 59.544,
+        "error_detected": 39.257,
+        "undetected_error": 1.199
+      },
+      "XOR": {
+        "accuracy": 75.714,
+        "error_detected": 23.61,
+        "undetected_error": 0.676
+      },
+      "MUX": {
+        "accuracy": 67.397,
+        "error_detected": 31.476,
+        "undetected_error": 1.127
+      },
+      "XOR3": {
+        "accuracy": 74.128,
+        "error_detected": 25.183,
+        "undetected_error": 0.689
+      },
+      "XOR4": {
+        "accuracy": 75.261,
+        "error_detected": 24.073,
+        "undetected_error": 0.666
+      }
+    },
+    "score": 68.87175,
+    "timestamp": "2025-05-24T21:52:34.450007"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 3,
+      "WM_DELAY": 1024,
+      "WR_OFFSET": 1216
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 83.356,
+        "error_detected": 16.192,
+        "undetected_error": 0.452
+      },
+      "OR": {
+        "accuracy": 59.911,
+        "error_detected": 38.978,
+        "undetected_error": 1.111
+      },
+      "NOT": {
+        "accuracy": 76.113,
+        "error_detected": 23.251,
+        "undetected_error": 0.636
+      },
+      "NAND": {
+        "accuracy": 62.412,
+        "error_detected": 36.342,
+        "undetected_error": 1.246
+      },
+      "XOR": {
+        "accuracy": 76.275,
+        "error_detected": 23.08,
+        "undetected_error": 0.645
+      },
+      "MUX": {
+        "accuracy": 68.698,
+        "error_detected": 30.314,
+        "undetected_error": 0.988
+      },
+      "XOR3": {
+        "accuracy": 74.602,
+        "error_detected": 24.756,
+        "undetected_error": 0.642
+      },
+      "XOR4": {
+        "accuracy": 77.169,
+        "error_detected": 22.245,
+        "undetected_error": 0.586
+      }
+    },
+    "score": 69.95224999999999,
+    "timestamp": "2025-05-24T21:52:38.785088"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 5,
+      "WM_DELAY": 128,
+      "WR_OFFSET": 576
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 82.608,
+        "error_detected": 16.819,
+        "undetected_error": 0.573
+      },
+      "OR": {
+        "accuracy": 53.017,
+        "error_detected": 45.357,
+        "undetected_error": 1.626
+      },
+      "NOT": {
+        "accuracy": 73.753,
+        "error_detected": 25.464,
+        "undetected_error": 0.783
+      },
+      "NAND": {
+        "accuracy": 47.563,
+        "error_detected": 50.504,
+        "undetected_error": 1.933
+      },
+      "XOR": {
+        "accuracy": 72.002,
+        "error_detected": 27.026,
+        "undetected_error": 0.972
+      },
+      "MUX": {
+        "accuracy": 64.6,
+        "error_detected": 34.138,
+        "undetected_error": 1.262
+      },
+      "XOR3": {
+        "accuracy": 73.76,
+        "error_detected": 25.526,
+        "undetected_error": 0.714
+      },
+      "XOR4": {
+        "accuracy": 73.545,
+        "error_detected": 25.751,
+        "undetected_error": 0.704
+      }
+    },
+    "score": 64.393375,
+    "timestamp": "2025-05-24T21:52:43.185353"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 5,
+      "WM_DELAY": 128,
+      "WR_OFFSET": 960
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 79.426,
+        "error_detected": 19.992,
+        "undetected_error": 0.582
+      },
+      "OR": {
+        "accuracy": 44.915,
+        "error_detected": 53.189,
+        "undetected_error": 1.896
+      },
+      "NOT": {
+        "accuracy": 61.595,
+        "error_detected": 37.138,
+        "undetected_error": 1.267
+      },
+      "NAND": {
+        "accuracy": 43.18,
+        "error_detected": 54.85,
+        "undetected_error": 1.97
+      },
+      "XOR": {
+        "accuracy": 63.604,
+        "error_detected": 35.305,
+        "undetected_error": 1.091
+      },
+      "MUX": {
+        "accuracy": 63.854,
+        "error_detected": 35.096,
+        "undetected_error": 1.05
+      },
+      "XOR3": {
+        "accuracy": 71.038,
+        "error_detected": 28.187,
+        "undetected_error": 0.775
+      },
+      "XOR4": {
+        "accuracy": 79.85,
+        "error_detected": 19.524,
+        "undetected_error": 0.626
+      }
+    },
+    "score": 59.961375000000004,
+    "timestamp": "2025-05-24T21:52:47.533538"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 5,
+      "WM_DELAY": 128,
+      "WR_OFFSET": 1088
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 81.524,
+        "error_detected": 17.95,
+        "undetected_error": 0.526
+      },
+      "OR": {
+        "accuracy": 51.89,
+        "error_detected": 46.673,
+        "undetected_error": 1.437
+      },
+      "NOT": {
+        "accuracy": 65.172,
+        "error_detected": 33.818,
+        "undetected_error": 1.01
+      },
+      "NAND": {
+        "accuracy": 48.896,
+        "error_detected": 49.606,
+        "undetected_error": 1.498
+      },
+      "XOR": {
+        "accuracy": 67.296,
+        "error_detected": 31.871,
+        "undetected_error": 0.833
+      },
+      "MUX": {
+        "accuracy": 65.258,
+        "error_detected": 33.711,
+        "undetected_error": 1.031
+      },
+      "XOR3": {
+        "accuracy": 69.324,
+        "error_detected": 29.844,
+        "undetected_error": 0.832
+      },
+      "XOR4": {
+        "accuracy": 81.746,
+        "error_detected": 17.712,
+        "undetected_error": 0.542
+      }
+    },
+    "score": 63.497375000000005,
+    "timestamp": "2025-05-24T21:52:51.849236"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 5,
+      "WM_DELAY": 128,
+      "WR_OFFSET": 1216
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 83.877,
+        "error_detected": 15.679,
+        "undetected_error": 0.444
+      },
+      "OR": {
+        "accuracy": 58.871,
+        "error_detected": 39.871,
+        "undetected_error": 1.258
+      },
+      "NOT": {
+        "accuracy": 74.909,
+        "error_detected": 24.352,
+        "undetected_error": 0.739
+      },
+      "NAND": {
+        "accuracy": 56.761,
+        "error_detected": 41.767,
+        "undetected_error": 1.472
+      },
+      "XOR": {
+        "accuracy": 77.297,
+        "error_detected": 21.968,
+        "undetected_error": 0.735
+      },
+      "MUX": {
+        "accuracy": 73.95,
+        "error_detected": 25.297,
+        "undetected_error": 0.753
+      },
+      "XOR3": {
+        "accuracy": 75.638,
+        "error_detected": 23.767,
+        "undetected_error": 0.595
+      },
+      "XOR4": {
+        "accuracy": 77.74,
+        "error_detected": 21.59,
+        "undetected_error": 0.67
+      }
+    },
+    "score": 69.880625,
+    "timestamp": "2025-05-24T21:52:56.173242"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 5,
+      "WM_DELAY": 256,
+      "WR_OFFSET": 576
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 83.861,
+        "error_detected": 15.734,
+        "undetected_error": 0.405
+      },
+      "OR": {
+        "accuracy": 59.889,
+        "error_detected": 38.996,
+        "undetected_error": 1.115
+      },
+      "NOT": {
+        "accuracy": 76.385,
+        "error_detected": 23.085,
+        "undetected_error": 0.53
+      },
+      "NAND": {
+        "accuracy": 54.409,
+        "error_detected": 44.125,
+        "undetected_error": 1.466
+      },
+      "XOR": {
+        "accuracy": 76.266,
+        "error_detected": 23.077,
+        "undetected_error": 0.657
+      },
+      "MUX": {
+        "accuracy": 74.173,
+        "error_detected": 24.95,
+        "undetected_error": 0.877
+      },
+      "XOR3": {
+        "accuracy": 75.769,
+        "error_detected": 23.665,
+        "undetected_error": 0.566
+      },
+      "XOR4": {
+        "accuracy": 73.982,
+        "error_detected": 25.378,
+        "undetected_error": 0.64
+      }
+    },
+    "score": 69.49575,
+    "timestamp": "2025-05-24T21:53:00.404984"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 5,
+      "WM_DELAY": 256,
+      "WR_OFFSET": 960
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 84.925,
+        "error_detected": 14.709,
+        "undetected_error": 0.366
+      },
+      "OR": {
+        "accuracy": 54.919,
+        "error_detected": 43.767,
+        "undetected_error": 1.314
+      },
+      "NOT": {
+        "accuracy": 69.963,
+        "error_detected": 29.26,
+        "undetected_error": 0.777
+      },
+      "NAND": {
+        "accuracy": 52.6,
+        "error_detected": 45.907,
+        "undetected_error": 1.493
+      },
+      "XOR": {
+        "accuracy": 71.858,
+        "error_detected": 27.423,
+        "undetected_error": 0.719
+      },
+      "MUX": {
+        "accuracy": 58.076,
+        "error_detected": 40.839,
+        "undetected_error": 1.085
+      },
+      "XOR3": {
+        "accuracy": 65.843,
+        "error_detected": 33.353,
+        "undetected_error": 0.804
+      },
+      "XOR4": {
+        "accuracy": 75.933,
+        "error_detected": 23.426,
+        "undetected_error": 0.641
+      }
+    },
+    "score": 64.065,
+    "timestamp": "2025-05-24T21:53:04.725508"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 5,
+      "WM_DELAY": 256,
+      "WR_OFFSET": 1088
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 81.661,
+        "error_detected": 17.752,
+        "undetected_error": 0.587
+      },
+      "OR": {
+        "accuracy": 47.551,
+        "error_detected": 50.499,
+        "undetected_error": 1.95
+      },
+      "NOT": {
+        "accuracy": 63.419,
+        "error_detected": 35.22,
+        "undetected_error": 1.361
+      },
+      "NAND": {
+        "accuracy": 38.472,
+        "error_detected": 59.151,
+        "undetected_error": 2.377
+      },
+      "XOR": {
+        "accuracy": 67.458,
+        "error_detected": 31.311,
+        "undetected_error": 1.231
+      },
+      "MUX": {
+        "accuracy": 62.512,
+        "error_detected": 36.223,
+        "undetected_error": 1.265
+      },
+      "XOR3": {
+        "accuracy": 72.587,
+        "error_detected": 26.671,
+        "undetected_error": 0.742
+      },
+      "XOR4": {
+        "accuracy": 72.656,
+        "error_detected": 26.541,
+        "undetected_error": 0.803
+      }
+    },
+    "score": 59.421,
+    "timestamp": "2025-05-24T21:53:09.049340"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 5,
+      "WM_DELAY": 256,
+      "WR_OFFSET": 1216
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 85.268,
+        "error_detected": 14.369,
+        "undetected_error": 0.363
+      },
+      "OR": {
+        "accuracy": 62.359,
+        "error_detected": 36.538,
+        "undetected_error": 1.103
+      },
+      "NOT": {
+        "accuracy": 77.066,
+        "error_detected": 22.26,
+        "undetected_error": 0.674
+      },
+      "NAND": {
+        "accuracy": 58.56,
+        "error_detected": 40.187,
+        "undetected_error": 1.253
+      },
+      "XOR": {
+        "accuracy": 75.448,
+        "error_detected": 23.921,
+        "undetected_error": 0.631
+      },
+      "MUX": {
+        "accuracy": 65.585,
+        "error_detected": 33.492,
+        "undetected_error": 0.923
+      },
+      "XOR3": {
+        "accuracy": 71.225,
+        "error_detected": 28.168,
+        "undetected_error": 0.607
+      },
+      "XOR4": {
+        "accuracy": 81.918,
+        "error_detected": 17.564,
+        "undetected_error": 0.518
+      }
+    },
+    "score": 69.901625,
+    "timestamp": "2025-05-24T21:53:13.345968"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 5,
+      "WM_DELAY": 512,
+      "WR_OFFSET": 576
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 84.282,
+        "error_detected": 15.268,
+        "undetected_error": 0.45
+      },
+      "OR": {
+        "accuracy": 59.683,
+        "error_detected": 39.155,
+        "undetected_error": 1.162
+      },
+      "NOT": {
+        "accuracy": 76.362,
+        "error_detected": 22.978,
+        "undetected_error": 0.66
+      },
+      "NAND": {
+        "accuracy": 54.683,
+        "error_detected": 43.854,
+        "undetected_error": 1.463
+      },
+      "XOR": {
+        "accuracy": 76.767,
+        "error_detected": 22.599,
+        "undetected_error": 0.634
+      },
+      "MUX": {
+        "accuracy": 68.441,
+        "error_detected": 30.506,
+        "undetected_error": 1.053
+      },
+      "XOR3": {
+        "accuracy": 74.002,
+        "error_detected": 25.287,
+        "undetected_error": 0.711
+      },
+      "XOR4": {
+        "accuracy": 74.807,
+        "error_detected": 24.489,
+        "undetected_error": 0.704
+      }
+    },
+    "score": 68.56450000000001,
+    "timestamp": "2025-05-24T21:53:17.633638"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 5,
+      "WM_DELAY": 512,
+      "WR_OFFSET": 960
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 81.659,
+        "error_detected": 17.874,
+        "undetected_error": 0.467
+      },
+      "OR": {
+        "accuracy": 48.267,
+        "error_detected": 50.081,
+        "undetected_error": 1.652
+      },
+      "NOT": {
+        "accuracy": 64.694,
+        "error_detected": 34.075,
+        "undetected_error": 1.231
+      },
+      "NAND": {
+        "accuracy": 44.244,
+        "error_detected": 53.916,
+        "undetected_error": 1.84
+      },
+      "XOR": {
+        "accuracy": 65.785,
+        "error_detected": 33.206,
+        "undetected_error": 1.009
+      },
+      "MUX": {
+        "accuracy": 65.011,
+        "error_detected": 33.945,
+        "undetected_error": 1.044
+      },
+      "XOR3": {
+        "accuracy": 68.824,
+        "error_detected": 30.319,
+        "undetected_error": 0.857
+      },
+      "XOR4": {
+        "accuracy": 78.495,
+        "error_detected": 20.856,
+        "undetected_error": 0.649
+      }
+    },
+    "score": 61.3415,
+    "timestamp": "2025-05-24T21:53:22.025165"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 5,
+      "WM_DELAY": 512,
+      "WR_OFFSET": 1088
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 74.117,
+        "error_detected": 25.436,
+        "undetected_error": 0.447
+      },
+      "OR": {
+        "accuracy": 28.948,
+        "error_detected": 69.661,
+        "undetected_error": 1.391
+      },
+      "NOT": {
+        "accuracy": 51.161,
+        "error_detected": 48.102,
+        "undetected_error": 0.737
+      },
+      "NAND": {
+        "accuracy": 27.892,
+        "error_detected": 70.449,
+        "undetected_error": 1.659
+      },
+      "XOR": {
+        "accuracy": 52.109,
+        "error_detected": 47.055,
+        "undetected_error": 0.836
+      },
+      "MUX": {
+        "accuracy": 50.749,
+        "error_detected": 48.361,
+        "undetected_error": 0.89
+      },
+      "XOR3": {
+        "accuracy": 57.148,
+        "error_detected": 42.162,
+        "undetected_error": 0.69
+      },
+      "XOR4": {
+        "accuracy": 66.386,
+        "error_detected": 32.965,
+        "undetected_error": 0.649
+      }
+    },
+    "score": 48.32662499999999,
+    "timestamp": "2025-05-24T21:53:26.417404"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 5,
+      "WM_DELAY": 512,
+      "WR_OFFSET": 1216
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 83.376,
+        "error_detected": 16.2,
+        "undetected_error": 0.424
+      },
+      "OR": {
+        "accuracy": 54.708,
+        "error_detected": 43.81,
+        "undetected_error": 1.482
+      },
+      "NOT": {
+        "accuracy": 71.801,
+        "error_detected": 27.424,
+        "undetected_error": 0.775
+      },
+      "NAND": {
+        "accuracy": 51.926,
+        "error_detected": 46.278,
+        "undetected_error": 1.796
+      },
+      "XOR": {
+        "accuracy": 73.671,
+        "error_detected": 25.369,
+        "undetected_error": 0.96
+      },
+      "MUX": {
+        "accuracy": 67.47,
+        "error_detected": 31.498,
+        "undetected_error": 1.032
+      },
+      "XOR3": {
+        "accuracy": 74.738,
+        "error_detected": 24.652,
+        "undetected_error": 0.61
+      },
+      "XOR4": {
+        "accuracy": 73.91,
+        "error_detected": 25.449,
+        "undetected_error": 0.641
+      }
+    },
+    "score": 66.05499999999999,
+    "timestamp": "2025-05-24T21:53:30.689777"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 5,
+      "WM_DELAY": 1024,
+      "WR_OFFSET": 576
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 90.5,
+        "error_detected": 9.242,
+        "undetected_error": 0.258
+      },
+      "OR": {
+        "accuracy": 62.915,
+        "error_detected": 35.83,
+        "undetected_error": 1.255
+      },
+      "NOT": {
+        "accuracy": 72.495,
+        "error_detected": 26.481,
+        "undetected_error": 1.024
+      },
+      "NAND": {
+        "accuracy": 59.345,
+        "error_detected": 39.259,
+        "undetected_error": 1.396
+      },
+      "XOR": {
+        "accuracy": 74.394,
+        "error_detected": 24.858,
+        "undetected_error": 0.748
+      },
+      "MUX": {
+        "accuracy": 64.588,
+        "error_detected": 34.387,
+        "undetected_error": 1.025
+      },
+      "XOR3": {
+        "accuracy": 67.044,
+        "error_detected": 32.08,
+        "undetected_error": 0.876
+      },
+      "XOR4": {
+        "accuracy": 82.193,
+        "error_detected": 17.299,
+        "undetected_error": 0.508
+      }
+    },
+    "score": 69.0255,
+    "timestamp": "2025-05-24T21:53:34.941371"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 5,
+      "WM_DELAY": 1024,
+      "WR_OFFSET": 960
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 84.584,
+        "error_detected": 15.081,
+        "undetected_error": 0.335
+      },
+      "OR": {
+        "accuracy": 60.68,
+        "error_detected": 38.328,
+        "undetected_error": 0.992
+      },
+      "NOT": {
+        "accuracy": 78.168,
+        "error_detected": 21.476,
+        "undetected_error": 0.356
+      },
+      "NAND": {
+        "accuracy": 57.723,
+        "error_detected": 41.058,
+        "undetected_error": 1.219
+      },
+      "XOR": {
+        "accuracy": 74.128,
+        "error_detected": 25.257,
+        "undetected_error": 0.615
+      },
+      "MUX": {
+        "accuracy": 65.53,
+        "error_detected": 33.588,
+        "undetected_error": 0.882
+      },
+      "XOR3": {
+        "accuracy": 69.946,
+        "error_detected": 29.486,
+        "undetected_error": 0.568
+      },
+      "XOR4": {
+        "accuracy": 82.571,
+        "error_detected": 17.027,
+        "undetected_error": 0.402
+      }
+    },
+    "score": 69.65287500000001,
+    "timestamp": "2025-05-24T21:53:39.265881"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 5,
+      "WM_DELAY": 1024,
+      "WR_OFFSET": 1088
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 77.001,
+        "error_detected": 22.336,
+        "undetected_error": 0.663
+      },
+      "OR": {
+        "accuracy": 39.413,
+        "error_detected": 58.631,
+        "undetected_error": 1.956
+      },
+      "NOT": {
+        "accuracy": 59.219,
+        "error_detected": 39.415,
+        "undetected_error": 1.366
+      },
+      "NAND": {
+        "accuracy": 37.363,
+        "error_detected": 60.577,
+        "undetected_error": 2.06
+      },
+      "XOR": {
+        "accuracy": 58.846,
+        "error_detected": 39.942,
+        "undetected_error": 1.212
+      },
+      "MUX": {
+        "accuracy": 59.151,
+        "error_detected": 39.656,
+        "undetected_error": 1.193
+      },
+      "XOR3": {
+        "accuracy": 69.701,
+        "error_detected": 29.479,
+        "undetected_error": 0.82
+      },
+      "XOR4": {
+        "accuracy": 73.621,
+        "error_detected": 25.649,
+        "undetected_error": 0.73
+      }
+    },
+    "score": 55.53937499999999,
+    "timestamp": "2025-05-24T21:53:43.678094"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 5,
+      "WM_DELAY": 1024,
+      "WR_OFFSET": 1216
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 82.33,
+        "error_detected": 17.18,
+        "undetected_error": 0.49
+      },
+      "OR": {
+        "accuracy": 53.544,
+        "error_detected": 44.923,
+        "undetected_error": 1.533
+      },
+      "NOT": {
+        "accuracy": 71.946,
+        "error_detected": 27.333,
+        "undetected_error": 0.721
+      },
+      "NAND": {
+        "accuracy": 49.598,
+        "error_detected": 48.612,
+        "undetected_error": 1.79
+      },
+      "XOR": {
+        "accuracy": 72.25,
+        "error_detected": 26.875,
+        "undetected_error": 0.875
+      },
+      "MUX": {
+        "accuracy": 67.218,
+        "error_detected": 31.722,
+        "undetected_error": 1.06
+      },
+      "XOR3": {
+        "accuracy": 73.796,
+        "error_detected": 25.584,
+        "undetected_error": 0.62
+      },
+      "XOR4": {
+        "accuracy": 73.104,
+        "error_detected": 26.219,
+        "undetected_error": 0.677
+      }
+    },
+    "score": 65.061,
+    "timestamp": "2025-05-24T21:53:48.093563"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 10,
+      "WM_DELAY": 128,
+      "WR_OFFSET": 576
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 83.202,
+        "error_detected": 16.353,
+        "undetected_error": 0.445
+      },
+      "OR": {
+        "accuracy": 58.007,
+        "error_detected": 40.75,
+        "undetected_error": 1.243
+      },
+      "NOT": {
+        "accuracy": 73.793,
+        "error_detected": 25.393,
+        "undetected_error": 0.814
+      },
+      "NAND": {
+        "accuracy": 55.078,
+        "error_detected": 43.455,
+        "undetected_error": 1.467
+      },
+      "XOR": {
+        "accuracy": 73.539,
+        "error_detected": 25.709,
+        "undetected_error": 0.752
+      },
+      "MUX": {
+        "accuracy": 67.765,
+        "error_detected": 31.407,
+        "undetected_error": 0.828
+      },
+      "XOR3": {
+        "accuracy": 72.586,
+        "error_detected": 26.774,
+        "undetected_error": 0.64
+      },
+      "XOR4": {
+        "accuracy": 80.622,
+        "error_detected": 18.841,
+        "undetected_error": 0.537
+      }
+    },
+    "score": 68.05175000000001,
+    "timestamp": "2025-05-24T21:53:52.530184"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 10,
+      "WM_DELAY": 128,
+      "WR_OFFSET": 960
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 77.843,
+        "error_detected": 21.511,
+        "undetected_error": 0.646
+      },
+      "OR": {
+        "accuracy": 41.867,
+        "error_detected": 56.154,
+        "undetected_error": 1.979
+      },
+      "NOT": {
+        "accuracy": 63.197,
+        "error_detected": 35.603,
+        "undetected_error": 1.2
+      },
+      "NAND": {
+        "accuracy": 41.482,
+        "error_detected": 56.472,
+        "undetected_error": 2.046
+      },
+      "XOR": {
+        "accuracy": 69.444,
+        "error_detected": 29.648,
+        "undetected_error": 0.908
+      },
+      "MUX": {
+        "accuracy": 62.208,
+        "error_detected": 36.686,
+        "undetected_error": 1.106
+      },
+      "XOR3": {
+        "accuracy": 69.614,
+        "error_detected": 29.592,
+        "undetected_error": 0.794
+      },
+      "XOR4": {
+        "accuracy": 73.765,
+        "error_detected": 25.644,
+        "undetected_error": 0.591
+      }
+    },
+    "score": 58.951249999999995,
+    "timestamp": "2025-05-24T21:53:56.947151"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 10,
+      "WM_DELAY": 128,
+      "WR_OFFSET": 1088
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 83.353,
+        "error_detected": 16.198,
+        "undetected_error": 0.449
+      },
+      "OR": {
+        "accuracy": 57.281,
+        "error_detected": 41.419,
+        "undetected_error": 1.3
+      },
+      "NOT": {
+        "accuracy": 75.91,
+        "error_detected": 23.44,
+        "undetected_error": 0.65
+      },
+      "NAND": {
+        "accuracy": 53.9,
+        "error_detected": 44.429,
+        "undetected_error": 1.671
+      },
+      "XOR": {
+        "accuracy": 75.155,
+        "error_detected": 24.079,
+        "undetected_error": 0.766
+      },
+      "MUX": {
+        "accuracy": 73.436,
+        "error_detected": 25.621,
+        "undetected_error": 0.943
+      },
+      "XOR3": {
+        "accuracy": 75.016,
+        "error_detected": 24.44,
+        "undetected_error": 0.544
+      },
+      "XOR4": {
+        "accuracy": 73.888,
+        "error_detected": 25.425,
+        "undetected_error": 0.687
+      }
+    },
+    "score": 68.36362500000001,
+    "timestamp": "2025-05-24T21:54:01.310717"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 10,
+      "WM_DELAY": 128,
+      "WR_OFFSET": 1216
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 80.498,
+        "error_detected": 18.948,
+        "undetected_error": 0.554
+      },
+      "OR": {
+        "accuracy": 49.973,
+        "error_detected": 48.434,
+        "undetected_error": 1.593
+      },
+      "NOT": {
+        "accuracy": 66.443,
+        "error_detected": 32.67,
+        "undetected_error": 0.887
+      },
+      "NAND": {
+        "accuracy": 45.775,
+        "error_detected": 52.484,
+        "undetected_error": 1.741
+      },
+      "XOR": {
+        "accuracy": 67.574,
+        "error_detected": 31.546,
+        "undetected_error": 0.88
+      },
+      "MUX": {
+        "accuracy": 66.229,
+        "error_detected": 32.834,
+        "undetected_error": 0.937
+      },
+      "XOR3": {
+        "accuracy": 73.152,
+        "error_detected": 26.145,
+        "undetected_error": 0.703
+      },
+      "XOR4": {
+        "accuracy": 72.621,
+        "error_detected": 26.55,
+        "undetected_error": 0.829
+      }
+    },
+    "score": 62.236625000000004,
+    "timestamp": "2025-05-24T21:54:05.670602"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 10,
+      "WM_DELAY": 256,
+      "WR_OFFSET": 576
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 81.466,
+        "error_detected": 18.038,
+        "undetected_error": 0.496
+      },
+      "OR": {
+        "accuracy": 51.631,
+        "error_detected": 46.919,
+        "undetected_error": 1.45
+      },
+      "NOT": {
+        "accuracy": 70.011,
+        "error_detected": 29.053,
+        "undetected_error": 0.936
+      },
+      "NAND": {
+        "accuracy": 50.026,
+        "error_detected": 48.373,
+        "undetected_error": 1.601
+      },
+      "XOR": {
+        "accuracy": 69.899,
+        "error_detected": 29.273,
+        "undetected_error": 0.828
+      },
+      "MUX": {
+        "accuracy": 64.723,
+        "error_detected": 34.315,
+        "undetected_error": 0.962
+      },
+      "XOR3": {
+        "accuracy": 69.675,
+        "error_detected": 29.608,
+        "undetected_error": 0.717
+      },
+      "XOR4": {
+        "accuracy": 79.755,
+        "error_detected": 19.665,
+        "undetected_error": 0.58
+      }
+    },
+    "score": 64.3095,
+    "timestamp": "2025-05-24T21:54:10.066032"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 10,
+      "WM_DELAY": 256,
+      "WR_OFFSET": 960
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 84.68,
+        "error_detected": 14.983,
+        "undetected_error": 0.337
+      },
+      "OR": {
+        "accuracy": 60.23,
+        "error_detected": 38.699,
+        "undetected_error": 1.071
+      },
+      "NOT": {
+        "accuracy": 75.418,
+        "error_detected": 23.961,
+        "undetected_error": 0.621
+      },
+      "NAND": {
+        "accuracy": 57.605,
+        "error_detected": 41.198,
+        "undetected_error": 1.197
+      },
+      "XOR": {
+        "accuracy": 75.578,
+        "error_detected": 23.781,
+        "undetected_error": 0.641
+      },
+      "MUX": {
+        "accuracy": 65.235,
+        "error_detected": 33.811,
+        "undetected_error": 0.954
+      },
+      "XOR3": {
+        "accuracy": 69.014,
+        "error_detected": 30.222,
+        "undetected_error": 0.764
+      },
+      "XOR4": {
+        "accuracy": 79.703,
+        "error_detected": 19.723,
+        "undetected_error": 0.574
+      }
+    },
+    "score": 68.62325,
+    "timestamp": "2025-05-24T21:54:14.433625"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 10,
+      "WM_DELAY": 256,
+      "WR_OFFSET": 1088
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 84.772,
+        "error_detected": 14.814,
+        "undetected_error": 0.414
+      },
+      "OR": {
+        "accuracy": 57.357,
+        "error_detected": 41.397,
+        "undetected_error": 1.246
+      },
+      "NOT": {
+        "accuracy": 68.386,
+        "error_detected": 30.738,
+        "undetected_error": 0.876
+      },
+      "NAND": {
+        "accuracy": 55.777,
+        "error_detected": 42.691,
+        "undetected_error": 1.532
+      },
+      "XOR": {
+        "accuracy": 75.334,
+        "error_detected": 23.951,
+        "undetected_error": 0.715
+      },
+      "MUX": {
+        "accuracy": 63.087,
+        "error_detected": 35.743,
+        "undetected_error": 1.17
+      },
+      "XOR3": {
+        "accuracy": 73.666,
+        "error_detected": 25.63,
+        "undetected_error": 0.704
+      },
+      "XOR4": {
+        "accuracy": 75.181,
+        "error_detected": 24.159,
+        "undetected_error": 0.66
+      }
+    },
+    "score": 66.451125,
+    "timestamp": "2025-05-24T21:54:18.813594"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 10,
+      "WM_DELAY": 256,
+      "WR_OFFSET": 1216
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 84.189,
+        "error_detected": 15.333,
+        "undetected_error": 0.478
+      },
+      "OR": {
+        "accuracy": 58.671,
+        "error_detected": 39.934,
+        "undetected_error": 1.395
+      },
+      "NOT": {
+        "accuracy": 75.763,
+        "error_detected": 23.454,
+        "undetected_error": 0.783
+      },
+      "NAND": {
+        "accuracy": 54.97,
+        "error_detected": 43.381,
+        "undetected_error": 1.649
+      },
+      "XOR": {
+        "accuracy": 76.25,
+        "error_detected": 22.965,
+        "undetected_error": 0.785
+      },
+      "MUX": {
+        "accuracy": 72.595,
+        "error_detected": 26.448,
+        "undetected_error": 0.957
+      },
+      "XOR3": {
+        "accuracy": 74.95,
+        "error_detected": 24.416,
+        "undetected_error": 0.634
+      },
+      "XOR4": {
+        "accuracy": 67.183,
+        "error_detected": 31.908,
+        "undetected_error": 0.909
+      }
+    },
+    "score": 67.72512499999999,
+    "timestamp": "2025-05-24T21:54:23.226185"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 10,
+      "WM_DELAY": 512,
+      "WR_OFFSET": 576
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 84.075,
+        "error_detected": 15.529,
+        "undetected_error": 0.396
+      },
+      "OR": {
+        "accuracy": 63.415,
+        "error_detected": 35.537,
+        "undetected_error": 1.048
+      },
+      "NOT": {
+        "accuracy": 70.515,
+        "error_detected": 28.553,
+        "undetected_error": 0.932
+      },
+      "NAND": {
+        "accuracy": 58.103,
+        "error_detected": 40.531,
+        "undetected_error": 1.366
+      },
+      "XOR": {
+        "accuracy": 76.131,
+        "error_detected": 23.206,
+        "undetected_error": 0.663
+      },
+      "MUX": {
+        "accuracy": 69.648,
+        "error_detected": 29.298,
+        "undetected_error": 1.054
+      },
+      "XOR3": {
+        "accuracy": 74.346,
+        "error_detected": 24.985,
+        "undetected_error": 0.669
+      },
+      "XOR4": {
+        "accuracy": 76.486,
+        "error_detected": 22.83,
+        "undetected_error": 0.684
+      }
+    },
+    "score": 69.035375,
+    "timestamp": "2025-05-24T21:54:27.457230"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 10,
+      "WM_DELAY": 512,
+      "WR_OFFSET": 960
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 81.065,
+        "error_detected": 18.469,
+        "undetected_error": 0.466
+      },
+      "OR": {
+        "accuracy": 52.109,
+        "error_detected": 46.426,
+        "undetected_error": 1.465
+      },
+      "NOT": {
+        "accuracy": 71.501,
+        "error_detected": 27.699,
+        "undetected_error": 0.8
+      },
+      "NAND": {
+        "accuracy": 50.051,
+        "error_detected": 48.242,
+        "undetected_error": 1.707
+      },
+      "XOR": {
+        "accuracy": 69.091,
+        "error_detected": 29.958,
+        "undetected_error": 0.951
+      },
+      "MUX": {
+        "accuracy": 65.87,
+        "error_detected": 33.122,
+        "undetected_error": 1.008
+      },
+      "XOR3": {
+        "accuracy": 71.505,
+        "error_detected": 27.743,
+        "undetected_error": 0.752
+      },
+      "XOR4": {
+        "accuracy": 72.972,
+        "error_detected": 26.269,
+        "undetected_error": 0.759
+      }
+    },
+    "score": 63.805,
+    "timestamp": "2025-05-24T21:54:31.859157"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 10,
+      "WM_DELAY": 512,
+      "WR_OFFSET": 1088
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 82.51,
+        "error_detected": 17.003,
+        "undetected_error": 0.487
+      },
+      "OR": {
+        "accuracy": 52.675,
+        "error_detected": 45.742,
+        "undetected_error": 1.583
+      },
+      "NOT": {
+        "accuracy": 72.873,
+        "error_detected": 26.272,
+        "undetected_error": 0.855
+      },
+      "NAND": {
+        "accuracy": 50.078,
+        "error_detected": 48.157,
+        "undetected_error": 1.765
+      },
+      "XOR": {
+        "accuracy": 70.228,
+        "error_detected": 28.827,
+        "undetected_error": 0.945
+      },
+      "MUX": {
+        "accuracy": 68.72,
+        "error_detected": 30.37,
+        "undetected_error": 0.91
+      },
+      "XOR3": {
+        "accuracy": 74.523,
+        "error_detected": 24.819,
+        "undetected_error": 0.658
+      },
+      "XOR4": {
+        "accuracy": 76.555,
+        "error_detected": 22.792,
+        "undetected_error": 0.653
+      }
+    },
+    "score": 65.57425,
+    "timestamp": "2025-05-24T21:54:36.233217"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 10,
+      "WM_DELAY": 512,
+      "WR_OFFSET": 1216
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 83.009,
+        "error_detected": 16.542,
+        "undetected_error": 0.449
+      },
+      "OR": {
+        "accuracy": 54.856,
+        "error_detected": 43.782,
+        "undetected_error": 1.362
+      },
+      "NOT": {
+        "accuracy": 71.134,
+        "error_detected": 28.119,
+        "undetected_error": 0.747
+      },
+      "NAND": {
+        "accuracy": 52.88,
+        "error_detected": 45.615,
+        "undetected_error": 1.505
+      },
+      "XOR": {
+        "accuracy": 72.451,
+        "error_detected": 26.756,
+        "undetected_error": 0.793
+      },
+      "MUX": {
+        "accuracy": 71.56,
+        "error_detected": 27.59,
+        "undetected_error": 0.85
+      },
+      "XOR3": {
+        "accuracy": 75.947,
+        "error_detected": 23.439,
+        "undetected_error": 0.614
+      },
+      "XOR4": {
+        "accuracy": 75.92,
+        "error_detected": 23.437,
+        "undetected_error": 0.643
+      }
+    },
+    "score": 67.1085,
+    "timestamp": "2025-05-24T21:54:40.536787"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 10,
+      "WM_DELAY": 1024,
+      "WR_OFFSET": 576
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 78.026,
+        "error_detected": 21.369,
+        "undetected_error": 0.605
+      },
+      "OR": {
+        "accuracy": 38.586,
+        "error_detected": 59.469,
+        "undetected_error": 1.945
+      },
+      "NOT": {
+        "accuracy": 54.317,
+        "error_detected": 44.078,
+        "undetected_error": 1.605
+      },
+      "NAND": {
+        "accuracy": 37.546,
+        "error_detected": 60.316,
+        "undetected_error": 2.138
+      },
+      "XOR": {
+        "accuracy": 59.326,
+        "error_detected": 39.511,
+        "undetected_error": 1.163
+      },
+      "MUX": {
+        "accuracy": 56.158,
+        "error_detected": 42.46,
+        "undetected_error": 1.382
+      },
+      "XOR3": {
+        "accuracy": 59.743,
+        "error_detected": 39.228,
+        "undetected_error": 1.029
+      },
+      "XOR4": {
+        "accuracy": 75.234,
+        "error_detected": 23.962,
+        "undetected_error": 0.804
+      }
+    },
+    "score": 53.365375,
+    "timestamp": "2025-05-24T21:54:44.997179"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 10,
+      "WM_DELAY": 1024,
+      "WR_OFFSET": 960
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 83.182,
+        "error_detected": 16.317,
+        "undetected_error": 0.501
+      },
+      "OR": {
+        "accuracy": 58.82,
+        "error_detected": 39.92,
+        "undetected_error": 1.26
+      },
+      "NOT": {
+        "accuracy": 76.185,
+        "error_detected": 23.108,
+        "undetected_error": 0.707
+      },
+      "NAND": {
+        "accuracy": 60.991,
+        "error_detected": 37.623,
+        "undetected_error": 1.386
+      },
+      "XOR": {
+        "accuracy": 76.094,
+        "error_detected": 23.147,
+        "undetected_error": 0.759
+      },
+      "MUX": {
+        "accuracy": 73.118,
+        "error_detected": 26.007,
+        "undetected_error": 0.875
+      },
+      "XOR3": {
+        "accuracy": 80.409,
+        "error_detected": 19.099,
+        "undetected_error": 0.492
+      },
+      "XOR4": {
+        "accuracy": 73.826,
+        "error_detected": 25.52,
+        "undetected_error": 0.654
+      }
+    },
+    "score": 70.340375,
+    "timestamp": "2025-05-24T21:54:49.406431"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 10,
+      "WM_DELAY": 1024,
+      "WR_OFFSET": 1088
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 82.286,
+        "error_detected": 17.175,
+        "undetected_error": 0.539
+      },
+      "OR": {
+        "accuracy": 54.277,
+        "error_detected": 44.202,
+        "undetected_error": 1.521
+      },
+      "NOT": {
+        "accuracy": 73.565,
+        "error_detected": 25.461,
+        "undetected_error": 0.974
+      },
+      "NAND": {
+        "accuracy": 48.819,
+        "error_detected": 49.445,
+        "undetected_error": 1.736
+      },
+      "XOR": {
+        "accuracy": 69.196,
+        "error_detected": 29.875,
+        "undetected_error": 0.929
+      },
+      "MUX": {
+        "accuracy": 61.869,
+        "error_detected": 36.949,
+        "undetected_error": 1.182
+      },
+      "XOR3": {
+        "accuracy": 69.449,
+        "error_detected": 29.677,
+        "undetected_error": 0.874
+      },
+      "XOR4": {
+        "accuracy": 81.293,
+        "error_detected": 18.159,
+        "undetected_error": 0.548
+      }
+    },
+    "score": 64.480625,
+    "timestamp": "2025-05-24T21:54:53.770774"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 10,
+      "WM_DELAY": 1024,
+      "WR_OFFSET": 1216
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 76.949,
+        "error_detected": 22.377,
+        "undetected_error": 0.674
+      },
+      "OR": {
+        "accuracy": 36.751,
+        "error_detected": 61.071,
+        "undetected_error": 2.178
+      },
+      "NOT": {
+        "accuracy": 57.713,
+        "error_detected": 40.782,
+        "undetected_error": 1.505
+      },
+      "NAND": {
+        "accuracy": 33.457,
+        "error_detected": 64.129,
+        "undetected_error": 2.414
+      },
+      "XOR": {
+        "accuracy": 58.192,
+        "error_detected": 40.483,
+        "undetected_error": 1.325
+      },
+      "MUX": {
+        "accuracy": 54.939,
+        "error_detected": 43.746,
+        "undetected_error": 1.315
+      },
+      "XOR3": {
+        "accuracy": 62.255,
+        "error_detected": 36.76,
+        "undetected_error": 0.985
+      },
+      "XOR4": {
+        "accuracy": 71.009,
+        "error_detected": 28.11,
+        "undetected_error": 0.881
+      }
+    },
+    "score": 52.17925,
+    "timestamp": "2025-05-24T21:54:58.169351"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 15,
+      "WM_DELAY": 128,
+      "WR_OFFSET": 576
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 85.355,
+        "error_detected": 14.459,
+        "undetected_error": 0.186
+      },
+      "OR": {
+        "accuracy": 62.143,
+        "error_detected": 37.255,
+        "undetected_error": 0.602
+      },
+      "NOT": {
+        "accuracy": 78.076,
+        "error_detected": 21.678,
+        "undetected_error": 0.246
+      },
+      "NAND": {
+        "accuracy": 63.894,
+        "error_detected": 35.496,
+        "undetected_error": 0.61
+      },
+      "XOR": {
+        "accuracy": 77.682,
+        "error_detected": 21.983,
+        "undetected_error": 0.335
+      },
+      "MUX": {
+        "accuracy": 74.932,
+        "error_detected": 24.611,
+        "undetected_error": 0.457
+      },
+      "XOR3": {
+        "accuracy": 77.622,
+        "error_detected": 22.052,
+        "undetected_error": 0.326
+      },
+      "XOR4": {
+        "accuracy": 76.448,
+        "error_detected": 23.136,
+        "undetected_error": 0.416
+      }
+    },
+    "score": 73.32724999999999,
+    "timestamp": "2025-05-24T21:55:02.465656"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 15,
+      "WM_DELAY": 128,
+      "WR_OFFSET": 960
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 74.582,
+        "error_detected": 24.842,
+        "undetected_error": 0.576
+      },
+      "OR": {
+        "accuracy": 28.93,
+        "error_detected": 69.099,
+        "undetected_error": 1.971
+      },
+      "NOT": {
+        "accuracy": 60.765,
+        "error_detected": 38.197,
+        "undetected_error": 1.038
+      },
+      "NAND": {
+        "accuracy": 26.921,
+        "error_detected": 70.836,
+        "undetected_error": 2.243
+      },
+      "XOR": {
+        "accuracy": 51.812,
+        "error_detected": 46.963,
+        "undetected_error": 1.225
+      },
+      "MUX": {
+        "accuracy": 50.28,
+        "error_detected": 48.495,
+        "undetected_error": 1.225
+      },
+      "XOR3": {
+        "accuracy": 61.294,
+        "error_detected": 37.873,
+        "undetected_error": 0.833
+      },
+      "XOR4": {
+        "accuracy": 69.523,
+        "error_detected": 29.607,
+        "undetected_error": 0.87
+      }
+    },
+    "score": 49.270500000000006,
+    "timestamp": "2025-05-24T21:55:06.765531"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 15,
+      "WM_DELAY": 128,
+      "WR_OFFSET": 1088
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 84.178,
+        "error_detected": 15.364,
+        "undetected_error": 0.458
+      },
+      "OR": {
+        "accuracy": 60.172,
+        "error_detected": 38.59,
+        "undetected_error": 1.238
+      },
+      "NOT": {
+        "accuracy": 76.77,
+        "error_detected": 22.544,
+        "undetected_error": 0.686
+      },
+      "NAND": {
+        "accuracy": 58.784,
+        "error_detected": 39.828,
+        "undetected_error": 1.388
+      },
+      "XOR": {
+        "accuracy": 76.255,
+        "error_detected": 23.026,
+        "undetected_error": 0.719
+      },
+      "MUX": {
+        "accuracy": 75.152,
+        "error_detected": 24.081,
+        "undetected_error": 0.767
+      },
+      "XOR3": {
+        "accuracy": 76.415,
+        "error_detected": 22.974,
+        "undetected_error": 0.611
+      },
+      "XOR4": {
+        "accuracy": 75.005,
+        "error_detected": 24.346,
+        "undetected_error": 0.649
+      }
+    },
+    "score": 70.397875,
+    "timestamp": "2025-05-24T21:55:11.073902"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 15,
+      "WM_DELAY": 128,
+      "WR_OFFSET": 1216
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 77.649,
+        "error_detected": 21.745,
+        "undetected_error": 0.606
+      },
+      "OR": {
+        "accuracy": 36.879,
+        "error_detected": 61.036,
+        "undetected_error": 2.085
+      },
+      "NOT": {
+        "accuracy": 53.666,
+        "error_detected": 45.115,
+        "undetected_error": 1.219
+      },
+      "NAND": {
+        "accuracy": 31.135,
+        "error_detected": 66.574,
+        "undetected_error": 2.291
+      },
+      "XOR": {
+        "accuracy": 59.074,
+        "error_detected": 39.593,
+        "undetected_error": 1.333
+      },
+      "MUX": {
+        "accuracy": 56.881,
+        "error_detected": 41.917,
+        "undetected_error": 1.202
+      },
+      "XOR3": {
+        "accuracy": 66.873,
+        "error_detected": 32.26,
+        "undetected_error": 0.867
+      },
+      "XOR4": {
+        "accuracy": 73.691,
+        "error_detected": 25.614,
+        "undetected_error": 0.695
+      }
+    },
+    "score": 53.119249999999994,
+    "timestamp": "2025-05-24T21:55:15.480849"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 15,
+      "WM_DELAY": 256,
+      "WR_OFFSET": 576
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 83.616,
+        "error_detected": 15.983,
+        "undetected_error": 0.401
+      },
+      "OR": {
+        "accuracy": 57.583,
+        "error_detected": 41.041,
+        "undetected_error": 1.376
+      },
+      "NOT": {
+        "accuracy": 74.684,
+        "error_detected": 24.668,
+        "undetected_error": 0.648
+      },
+      "NAND": {
+        "accuracy": 51.135,
+        "error_detected": 47.333,
+        "undetected_error": 1.532
+      },
+      "XOR": {
+        "accuracy": 75.618,
+        "error_detected": 23.708,
+        "undetected_error": 0.674
+      },
+      "MUX": {
+        "accuracy": 74.05,
+        "error_detected": 25.209,
+        "undetected_error": 0.741
+      },
+      "XOR3": {
+        "accuracy": 75.189,
+        "error_detected": 24.245,
+        "undetected_error": 0.566
+      },
+      "XOR4": {
+        "accuracy": 74.447,
+        "error_detected": 24.864,
+        "undetected_error": 0.689
+      }
+    },
+    "score": 68.305125,
+    "timestamp": "2025-05-24T21:55:19.805673"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 15,
+      "WM_DELAY": 256,
+      "WR_OFFSET": 960
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 84.209,
+        "error_detected": 15.411,
+        "undetected_error": 0.38
+      },
+      "OR": {
+        "accuracy": 59.794,
+        "error_detected": 39.064,
+        "undetected_error": 1.142
+      },
+      "NOT": {
+        "accuracy": 76.535,
+        "error_detected": 22.851,
+        "undetected_error": 0.614
+      },
+      "NAND": {
+        "accuracy": 58.92,
+        "error_detected": 39.722,
+        "undetected_error": 1.358
+      },
+      "XOR": {
+        "accuracy": 76.633,
+        "error_detected": 22.838,
+        "undetected_error": 0.529
+      },
+      "MUX": {
+        "accuracy": 73.092,
+        "error_detected": 26.11,
+        "undetected_error": 0.798
+      },
+      "XOR3": {
+        "accuracy": 75.307,
+        "error_detected": 24.106,
+        "undetected_error": 0.587
+      },
+      "XOR4": {
+        "accuracy": 73.87,
+        "error_detected": 25.5,
+        "undetected_error": 0.63
+      }
+    },
+    "score": 70.03075,
+    "timestamp": "2025-05-24T21:55:24.153764"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 15,
+      "WM_DELAY": 256,
+      "WR_OFFSET": 1088
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 81.753,
+        "error_detected": 17.734,
+        "undetected_error": 0.513
+      },
+      "OR": {
+        "accuracy": 52.391,
+        "error_detected": 46.057,
+        "undetected_error": 1.552
+      },
+      "NOT": {
+        "accuracy": 71.533,
+        "error_detected": 27.72,
+        "undetected_error": 0.747
+      },
+      "NAND": {
+        "accuracy": 49.142,
+        "error_detected": 49.248,
+        "undetected_error": 1.61
+      },
+      "XOR": {
+        "accuracy": 69.477,
+        "error_detected": 29.588,
+        "undetected_error": 0.935
+      },
+      "MUX": {
+        "accuracy": 65.389,
+        "error_detected": 33.655,
+        "undetected_error": 0.956
+      },
+      "XOR3": {
+        "accuracy": 71.152,
+        "error_detected": 28.218,
+        "undetected_error": 0.63
+      },
+      "XOR4": {
+        "accuracy": 71.057,
+        "error_detected": 28.107,
+        "undetected_error": 0.836
+      }
+    },
+    "score": 63.569625,
+    "timestamp": "2025-05-24T21:55:28.641766"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 15,
+      "WM_DELAY": 256,
+      "WR_OFFSET": 1216
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 83.229,
+        "error_detected": 16.339,
+        "undetected_error": 0.432
+      },
+      "OR": {
+        "accuracy": 57.373,
+        "error_detected": 41.352,
+        "undetected_error": 1.275
+      },
+      "NOT": {
+        "accuracy": 74.554,
+        "error_detected": 24.628,
+        "undetected_error": 0.818
+      },
+      "NAND": {
+        "accuracy": 54.429,
+        "error_detected": 44.082,
+        "undetected_error": 1.489
+      },
+      "XOR": {
+        "accuracy": 74.86,
+        "error_detected": 24.443,
+        "undetected_error": 0.697
+      },
+      "MUX": {
+        "accuracy": 58.682,
+        "error_detected": 40.046,
+        "undetected_error": 1.272
+      },
+      "XOR3": {
+        "accuracy": 70.812,
+        "error_detected": 28.354,
+        "undetected_error": 0.834
+      },
+      "XOR4": {
+        "accuracy": 73.873,
+        "error_detected": 25.407,
+        "undetected_error": 0.72
+      }
+    },
+    "score": 65.650125,
+    "timestamp": "2025-05-24T21:55:33.017362"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 15,
+      "WM_DELAY": 512,
+      "WR_OFFSET": 576
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 82.618,
+        "error_detected": 16.953,
+        "undetected_error": 0.429
+      },
+      "OR": {
+        "accuracy": 50.7,
+        "error_detected": 47.864,
+        "undetected_error": 1.436
+      },
+      "NOT": {
+        "accuracy": 67.267,
+        "error_detected": 31.703,
+        "undetected_error": 1.03
+      },
+      "NAND": {
+        "accuracy": 46.598,
+        "error_detected": 51.769,
+        "undetected_error": 1.633
+      },
+      "XOR": {
+        "accuracy": 68.453,
+        "error_detected": 30.728,
+        "undetected_error": 0.819
+      },
+      "MUX": {
+        "accuracy": 56.779,
+        "error_detected": 41.975,
+        "undetected_error": 1.246
+      },
+      "XOR3": {
+        "accuracy": 76.334,
+        "error_detected": 23.07,
+        "undetected_error": 0.596
+      },
+      "XOR4": {
+        "accuracy": 76.712,
+        "error_detected": 22.652,
+        "undetected_error": 0.636
+      }
+    },
+    "score": 62.74825,
+    "timestamp": "2025-05-24T21:55:37.409701"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 15,
+      "WM_DELAY": 512,
+      "WR_OFFSET": 960
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 82.32,
+        "error_detected": 17.376,
+        "undetected_error": 0.304
+      },
+      "OR": {
+        "accuracy": 53.13,
+        "error_detected": 45.995,
+        "undetected_error": 0.875
+      },
+      "NOT": {
+        "accuracy": 69.659,
+        "error_detected": 29.821,
+        "undetected_error": 0.52
+      },
+      "NAND": {
+        "accuracy": 50.524,
+        "error_detected": 48.521,
+        "undetected_error": 0.955
+      },
+      "XOR": {
+        "accuracy": 74.431,
+        "error_detected": 25.091,
+        "undetected_error": 0.478
+      },
+      "MUX": {
+        "accuracy": 62.645,
+        "error_detected": 36.673,
+        "undetected_error": 0.682
+      },
+      "XOR3": {
+        "accuracy": 67.013,
+        "error_detected": 32.472,
+        "undetected_error": 0.515
+      },
+      "XOR4": {
+        "accuracy": 75.386,
+        "error_detected": 24.142,
+        "undetected_error": 0.472
+      }
+    },
+    "score": 65.088125,
+    "timestamp": "2025-05-24T21:55:41.753703"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 15,
+      "WM_DELAY": 512,
+      "WR_OFFSET": 1088
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 82.308,
+        "error_detected": 17.233,
+        "undetected_error": 0.459
+      },
+      "OR": {
+        "accuracy": 43.215,
+        "error_detected": 55.15,
+        "undetected_error": 1.635
+      },
+      "NOT": {
+        "accuracy": 56.3,
+        "error_detected": 42.409,
+        "undetected_error": 1.291
+      },
+      "NAND": {
+        "accuracy": 40.476,
+        "error_detected": 57.752,
+        "undetected_error": 1.772
+      },
+      "XOR": {
+        "accuracy": 61.239,
+        "error_detected": 37.88,
+        "undetected_error": 0.881
+      },
+      "MUX": {
+        "accuracy": 62.534,
+        "error_detected": 36.502,
+        "undetected_error": 0.964
+      },
+      "XOR3": {
+        "accuracy": 68.939,
+        "error_detected": 30.323,
+        "undetected_error": 0.738
+      },
+      "XOR4": {
+        "accuracy": 79.366,
+        "error_detected": 20.038,
+        "undetected_error": 0.596
+      }
+    },
+    "score": 58.67112499999999,
+    "timestamp": "2025-05-24T21:55:46.009063"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 15,
+      "WM_DELAY": 512,
+      "WR_OFFSET": 1216
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 77.185,
+        "error_detected": 22.134,
+        "undetected_error": 0.681
+      },
+      "OR": {
+        "accuracy": 36.025,
+        "error_detected": 61.84,
+        "undetected_error": 2.135
+      },
+      "NOT": {
+        "accuracy": 62.343,
+        "error_detected": 36.415,
+        "undetected_error": 1.242
+      },
+      "NAND": {
+        "accuracy": 34.39,
+        "error_detected": 63.279,
+        "undetected_error": 2.331
+      },
+      "XOR": {
+        "accuracy": 56.362,
+        "error_detected": 42.31,
+        "undetected_error": 1.328
+      },
+      "MUX": {
+        "accuracy": 56.935,
+        "error_detected": 41.825,
+        "undetected_error": 1.24
+      },
+      "XOR3": {
+        "accuracy": 67.065,
+        "error_detected": 32.063,
+        "undetected_error": 0.872
+      },
+      "XOR4": {
+        "accuracy": 76.187,
+        "error_detected": 23.091,
+        "undetected_error": 0.722
+      }
+    },
+    "score": 54.35487500000001,
+    "timestamp": "2025-05-24T21:55:50.433738"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 15,
+      "WM_DELAY": 1024,
+      "WR_OFFSET": 576
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 83.753,
+        "error_detected": 15.814,
+        "undetected_error": 0.433
+      },
+      "OR": {
+        "accuracy": 56.185,
+        "error_detected": 42.367,
+        "undetected_error": 1.448
+      },
+      "NOT": {
+        "accuracy": 73.341,
+        "error_detected": 25.672,
+        "undetected_error": 0.987
+      },
+      "NAND": {
+        "accuracy": 53.279,
+        "error_detected": 45.018,
+        "undetected_error": 1.703
+      },
+      "XOR": {
+        "accuracy": 74.091,
+        "error_detected": 25.084,
+        "undetected_error": 0.825
+      },
+      "MUX": {
+        "accuracy": 70.663,
+        "error_detected": 28.331,
+        "undetected_error": 1.006
+      },
+      "XOR3": {
+        "accuracy": 74.121,
+        "error_detected": 25.225,
+        "undetected_error": 0.654
+      },
+      "XOR4": {
+        "accuracy": 72.925,
+        "error_detected": 26.367,
+        "undetected_error": 0.708
+      }
+    },
+    "score": 66.88324999999999,
+    "timestamp": "2025-05-24T21:55:54.807377"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 15,
+      "WM_DELAY": 1024,
+      "WR_OFFSET": 960
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 83.886,
+        "error_detected": 15.72,
+        "undetected_error": 0.394
+      },
+      "OR": {
+        "accuracy": 56.19,
+        "error_detected": 42.538,
+        "undetected_error": 1.272
+      },
+      "NOT": {
+        "accuracy": 75.345,
+        "error_detected": 23.973,
+        "undetected_error": 0.682
+      },
+      "NAND": {
+        "accuracy": 56.048,
+        "error_detected": 42.468,
+        "undetected_error": 1.484
+      },
+      "XOR": {
+        "accuracy": 74.162,
+        "error_detected": 25.12,
+        "undetected_error": 0.718
+      },
+      "MUX": {
+        "accuracy": 60.518,
+        "error_detected": 38.247,
+        "undetected_error": 1.235
+      },
+      "XOR3": {
+        "accuracy": 71.458,
+        "error_detected": 27.834,
+        "undetected_error": 0.708
+      },
+      "XOR4": {
+        "accuracy": 75.228,
+        "error_detected": 24.213,
+        "undetected_error": 0.559
+      }
+    },
+    "score": 66.459875,
+    "timestamp": "2025-05-24T21:55:59.145983"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 15,
+      "WM_DELAY": 1024,
+      "WR_OFFSET": 1088
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 82.441,
+        "error_detected": 17.103,
+        "undetected_error": 0.456
+      },
+      "OR": {
+        "accuracy": 53.115,
+        "error_detected": 45.479,
+        "undetected_error": 1.406
+      },
+      "NOT": {
+        "accuracy": 66.574,
+        "error_detected": 32.501,
+        "undetected_error": 0.925
+      },
+      "NAND": {
+        "accuracy": 49.313,
+        "error_detected": 49.137,
+        "undetected_error": 1.55
+      },
+      "XOR": {
+        "accuracy": 70.119,
+        "error_detected": 29.128,
+        "undetected_error": 0.753
+      },
+      "MUX": {
+        "accuracy": 69.584,
+        "error_detected": 29.506,
+        "undetected_error": 0.91
+      },
+      "XOR3": {
+        "accuracy": 71.926,
+        "error_detected": 27.37,
+        "undetected_error": 0.704
+      },
+      "XOR4": {
+        "accuracy": 80.851,
+        "error_detected": 18.602,
+        "undetected_error": 0.547
+      }
+    },
+    "score": 65.27125000000001,
+    "timestamp": "2025-05-24T21:56:03.494145"
+  },
+  {
+    "config": {
+      "RET_WM_DIV_ROUNDS": 15,
+      "WM_DELAY": 1024,
+      "WR_OFFSET": 1216
+    },
+    "gate_results": {
+      "AND": {
+        "accuracy": 83.671,
+        "error_detected": 15.878,
+        "undetected_error": 0.451
+      },
+      "OR": {
+        "accuracy": 57.607,
+        "error_detected": 40.928,
+        "undetected_error": 1.465
+      },
+      "NOT": {
+        "accuracy": 74.367,
+        "error_detected": 24.934,
+        "undetected_error": 0.699
+      },
+      "NAND": {
+        "accuracy": 53.055,
+        "error_detected": 45.328,
+        "undetected_error": 1.617
+      },
+      "XOR": {
+        "accuracy": 75.059,
+        "error_detected": 24.061,
+        "undetected_error": 0.88
+      },
+      "MUX": {
+        "accuracy": 70.87,
+        "error_detected": 28.267,
+        "undetected_error": 0.863
+      },
+      "XOR3": {
+        "accuracy": 74.304,
+        "error_detected": 25.065,
+        "undetected_error": 0.631
+      },
+      "XOR4": {
+        "accuracy": 74.299,
+        "error_detected": 24.998,
+        "undetected_error": 0.703
+      }
+    },
+    "score": 67.66312500000001,
+    "timestamp": "2025-05-24T21:56:07.905532"
+  }
+]

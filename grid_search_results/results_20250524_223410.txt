@@ -1,0 +1,7 @@
+dries@aeolus:~/thesis/Flexo/grid_search_results$ python extract_best.py 
+Best configuration:
+  RET_WM_DIV_ROUNDS: 18
+  WM_DELAY: 256
+  WR_OFFSET: 704
+  Score: 80.445
+  Timestamp: 2025-05-24T22:29:56.118249

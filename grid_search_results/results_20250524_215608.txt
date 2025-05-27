@@ -1,0 +1,21 @@
+==================================================
+OPTIMIZATION COMPLETE
+==================================================
+Configurations tested: 80
+Results saved to: grid_search_results/results_20250524_215608.json
+Best score: 73.33
+
+Best configuration:
+  RET_WM_DIV_ROUNDS = 15
+  WM_DELAY = 128
+  WR_OFFSET = 576
+
+Best results:
+  AND: 85.4% accuracy, 0.2% undetected error
+  OR: 62.1% accuracy, 0.6% undetected error
+  NOT: 78.1% accuracy, 0.2% undetected error
+  NAND: 63.9% accuracy, 0.6% undetected error
+  XOR: 77.7% accuracy, 0.3% undetected error
+  MUX: 74.9% accuracy, 0.5% undetected error
+  XOR3: 77.6% accuracy, 0.3% undetected error
+  XOR4: 76.4% accuracy, 0.4% undetected error
